@@ -1,2 +1,2 @@
 # puppetStarter
-Simple puppet modules to get your feet wet with Puppet
+Simple puppet modules to get your feet wet with Puppet. Hello World.
